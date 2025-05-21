@@ -63,7 +63,7 @@ Execute the program using runserver command.
 </head>
 <body>
     <img src="sec-logo-01as.png" alt="" width="645">
-    <table>
+    <table border="4">
         <caption>SLOT TIME TABLE - Ravikrishnamoorthy D (212224040271)</caption>
         <tr>
             <th>Day/Time</th>
@@ -75,35 +75,31 @@ Execute the program using runserver command.
         </tr>
         <tr>
             <th>8-10</th>
-            <td colspan="3">FREE SLOT</td>
-            <td>PHY</td>
-            <td>CHE</td>
+            <td>Web Development</td>
+            <td>Python Programming</td>
+            <td>Module Completion</td>
+            <td>Assessment Hour</td>
+            <td>Module Completion</td>
         </tr>
         <tr>
             <th>10-12</th>
-            <td>GER</td>
-            <td >FREE SLOT</td>
-            <td>FWAD</td>
-            <td>FWAD</td>
-            <td>PHY</td>
+            <td>Module Completion</td>
+            <td>Web Development</td>
+            <td>Python Programming</td>
+            <td>Advanced C Programming</td>
+            <td>Web Development</td>
         </tr>
         <tr>
             <th>12-1</th>
-            <td colspan="5">L U N C H</td>
+            <td colspan="6">L U N C H</td>
         </tr>
         <tr>
             <th>1-3</th>
-            <td colspan="2">FREE SLOT</td>
-            <td>MAT</td>
-            <td>MAT</td>
-            <td>SS</td>
-        </tr>
-        <tr>
-            <th>3-5</th>
-            <td colspan="2">FREE SLOT</td>
-            <td>GER</td>
-            <td>CHE</td>
-            <td>FWAD</td>
+            <td>Artificial Intelligence</td>
+            <td>Advanced C Programming</td>
+            <td>Mentor Meet</td>
+            <td>Artificial Intelligence</td>
+            <td>Assessment Hour</td>
         </tr>
     </table>
 </body>
@@ -113,7 +109,8 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-![Screenshot (276)](https://github.com/user-attachments/assets/47ea7ea2-13b1-4c68-b0c2-6a1828698440)
+![image](https://github.com/user-attachments/assets/20ed3bf5-f386-438f-a6d0-0048182c3769)
+
 
 
 
